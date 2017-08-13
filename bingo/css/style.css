@@ -1,0 +1,36 @@
+#page{
+width:100%;
+margin:0 auto;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td{
+font-family:arial;
+color:#333;
+padding:10px;
+width:50px;
+height:50px;
+text-align:center;
+border:10px solid #cc1111;
+background-color:#fff;
+}
+
+h1, h3, h3 a{
+	font-family:arial;
+	text-align:center;
+	padding:3px;
+	color:#211111;
+}
+
+td{
+cursor:pointer;
+}
+
+#free{
+	background-color:#ddd;
+	color:#111;
+	cursor:default;
+}
